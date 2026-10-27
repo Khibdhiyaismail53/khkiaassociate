@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3457F1" />
+      <stop offset="100%" stop-color="#8155E8" />
+    </linearGradient>
+    <linearGradient id="coralGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B6B" />
+      <stop offset="100%" stop-color="#FA5252" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#brandGrad)" />
+  <path d="M28 28 L38 28 L38 72 L28 72 Z" fill="#FFFFFF" />
+  <path d="M38 50 L58 28 L72 28 L48 53 L72 72 L58 72 L38 53 Z" fill="#FFFFFF" />
+  <circle cx="74" cy="30" r="7" fill="url(#coralGrad)" />
+</svg>
